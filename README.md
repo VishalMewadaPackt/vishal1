@@ -13,15 +13,15 @@ exten => s,102,Voicemail(b100)
 exten => i,1,Voicemail(s0)
 ```
 
-Software requirements for development:
-•  Visual Studio 2013 or Later version
-•  Windows 7 or Later version
-Hardware requirements for development:
-•  1.6 GHz or faster processor
-•  1 GB of RAM (1.5 GB if running on a virtual machine)
-•  10 GB (NTFS) of the available hard disk space
-•  5400 RPM hard drive
-•  DirectX 9-capable video card running at 1024 x 768 or higher display 
+**Software requirements for development:**
+*  Visual Studio 2013 or Later version
+*  Windows 7 or Later version
+**Hardware requirements for development:**
+*  1.6 GHz or faster processor
+*  1 GB of RAM (1.5 GB if running on a virtual machine)
+*  10 GB (NTFS) of the available hard disk space
+*  5400 RPM hard drive
+*  DirectX 9-capable video card running at 1024 x 768 or higher display 
 resolution
 
 ##Related Products
