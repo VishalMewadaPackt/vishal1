@@ -16,6 +16,8 @@ exten => i,1,Voicemail(s0)
 **Software requirements for development:**
 *  Visual Studio 2013 or Later version
 *  Windows 7 or Later version
+
+
 **Hardware requirements for development:**
 *  1.6 GHz or faster processor
 *  1 GB of RAM (1.5 GB if running on a virtual machine)
