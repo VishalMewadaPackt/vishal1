@@ -36,6 +36,11 @@ resolution
 https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform
 
 
-| State | Goals |
+
+| __State__ | **Goals** |
 |:-----:|:-----:|
 | Wyoming | 20,000 |
+| Wisconsin	| 120,000 |
+| West Virginia | 30,000 |
+| Washington | 300,000 |
+| Virginia | 200,000 |
