@@ -37,5 +37,5 @@ https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S
 
 
 | State | Goals |
-|: ----- :|: ----- :|
+|:-----:|:-----:|
 | Wyoming | 20,000 |
