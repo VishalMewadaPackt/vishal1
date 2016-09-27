@@ -34,3 +34,8 @@ resolution
 * [Learning ROS for Robotics Programming](https://www.packtpub.com/hardware-and-creative/learning-ros-robotics-programming?utm_source=github&utm_medium=repository&utm_campaign=9781782161448)
 ###Suggestions and Feedback
 https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform
+
+
+| State | Goals |
+|: ----- :|: ----- :|
+| Wyoming | 20,000 |
