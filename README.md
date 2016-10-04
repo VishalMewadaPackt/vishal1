@@ -1,6 +1,6 @@
 #Learning ROS for Robotics Programming
 
-<span style="font-family: 'Lucida Console';"><h1>Learning ROS for Robotics Programming</h1></span>
+<span style="font-family: 'Georgia';"><h1>Learning ROS for Robotics Programming</h1></span>
 
 
 This is the code repository for [Learning ROS for Robotics Programming](https://www.packtpub.com/hardware-and-creative/learning-ros-robotics-programming?utm_source=github&utm_medium=repository&utm_campaign=9781782161448), published by Packt Publishing. It contains all the supporting project files necessary to work through the book from start to finish.
